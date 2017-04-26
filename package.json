@@ -1,0 +1,16 @@
+{
+  "name": "tone_analyzer_test",
+  "version": "1.0.0",
+  "description": "Watson Tone Analyzer test",
+  "main": "tone_analyzer_test.js",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "watson-developer-cloud": "github:watson-developer-cloud/node-sdk"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node tone_analyzer_test.js"
+  },
+  "author": "David Thomason",
+  "license": "ISC"
+}
